@@ -1,6 +1,12 @@
 # spoty
 Python script to synchronize two Spotify accounts
 
+## objects to be synced
+- user's saved tracks
+- user's saved artists
+- user's saved albums
+- user's playlists
+
 ## requirements
 - on each account create new app to be able to use Spotify API
   - open https://developer.spotify.com/dashboard and click on "Create app" button
